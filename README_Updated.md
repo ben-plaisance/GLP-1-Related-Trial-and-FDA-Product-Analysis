@@ -96,5 +96,3 @@ These counts are descriptive and specific to the supplied data exports.
 
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) — clinical study records.
 - [Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm) — FDA drug product records.
-
-*Educational project; findings should not be interpreted as medical or regulatory advice.*
