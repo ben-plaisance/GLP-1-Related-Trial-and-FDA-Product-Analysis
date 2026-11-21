@@ -18,7 +18,7 @@ The analysis reads these **original files directly in Python**. It does not use 
 ```text
 GLP-1-Related-Trial-and-FDA-Product-Analysis/
 ├── README.md
-├── Milestone2.ipynb                 # Main analysis notebook
+├── Milestone2_Final.ipynb                 # Main analysis notebook
 ├── data/
 │   ├── ctg-studies.csv             # ClinicalTrials.gov export (required)
 │   ├── Products.txt                # Drugs@FDA product records (required)
