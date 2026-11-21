@@ -36,7 +36,7 @@ GLP-1-Related-Trial-and-FDA-Product-Analysis/
     └── start_years.csv
 ```
 
-The `results/` files are created or overwritten when the notebook runs. The additional FDA files are included for reference but are not needed to reproduce this analysis. Delete any accidental placeholder file such as `data/x` before submitting.
+The `results/` files are created or overwritten when the notebook runs. The additional FDA files are included for reference but are not needed to reproduce this analysis.
 
 ## Requirements
 
@@ -55,7 +55,7 @@ python -m pip install "pandas>=2.0" matplotlib notebook
 
 1. Download or clone the repository, then **extract the ZIP** if downloaded from GitHub. Keep the notebook, `data/` folder, and `results/` folder together in the extracted project directory.
 2. Install the packages listed above.
-3. Open **`Milestone2.ipynb`** in Jupyter Notebook, JupyterLab, or VS Code.
+3. Open **`Milestone2_Final.ipynb`** in Jupyter Notebook, JupyterLab, or VS Code.
 4. Select **Restart Kernel and Run All Cells**. The notebook locates `ctg-studies.csv` and `Products.txt` in the project's `data/` folder and creates the `results/` folder if necessary.
 5. Review the printed summaries and four PNG figures and five CSV summary tables saved to `results/`.
 
